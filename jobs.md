@@ -1,4 +1,4 @@
-![RQC Logo](https://github.com/aboev/rqc-jobs/blob/master/res/rqc-logo.svg)
+![RQC Logo](https://github.com/aboev/jobs-rqc/blob/master/res/rqc-logo.svg)
 
 ## Российский квантовый центр
 
@@ -78,6 +78,6 @@
 ### Наш офис
 Наш офис располагается на территории Инновационного центра “Сколково” в здании Сколковского Института Науки и Технологий, для гостей есть удобная лаундж-зона и собственное spin-cafe. Приглашаем всех в гости!
 
-<img src="https://github.com/aboev/rqc-jobs/blob/master/res/rqc-office-1.jpg" width=50% height=50%>
-<img src="https://github.com/aboev/rqc-jobs/blob/master/res/rqc-office-2.jpg" width=50% height=50%>
-<img src="https://github.com/aboev/rqc-jobs/blob/master/res/rqc-office-3.jpg" width=50% height=50%>
+<img src="https://github.com/aboev/jobs-rqc/blob/master/res/rqc-office-1.jpg" width=50% height=50%>
+<img src="https://github.com/aboev/jobs-rqc/blob/master/res/rqc-office-2.jpg" width=50% height=50%>
+<img src="https://github.com/aboev/jobs-rqc/blob/master/res/rqc-office-3.jpg" width=50% height=50%>
